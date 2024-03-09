@@ -1,6 +1,15 @@
 
 
 
+![Chair_Table](https://github.com/shivank21/vlg-recruitment-1y/assets/128126577/8a93e8c6-d05f-431c-af8f-2a54ff258f27)
+
+![Tortoise](https://github.com/shivank21/vlg-recruitment-1y/assets/128126577/33a8f690-ab26-48c7-9e7b-ae6962a50cae)
+
+
+![teaser](https://github.com/shivank21/vlg-recruitment-1y/assets/128126577/54447d1c-fd57-4625-88f3-9b109ca9cc34)
+
+![methodology](https://github.com/shivank21/vlg-recruitment-1y/assets/128126577/4145d0a5-a5af-4ce5-9b04-2c617188488b)
+
 
 ![Modif unet](https://github.com/shivank21/vlg-recruitment-1y/assets/128126577/fa5d9287-d348-4964-8bd8-d98340dea644)
 ![process2](https://github.com/shivank21/vlg-recruitment-1y/assets/128126577/e6d8e518-09f1-415e-bf88-af4b4bfe8364)
